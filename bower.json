@@ -1,9 +1,9 @@
 {
   "name": "ng-grid-fontawesome",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "homepage": "https://github.com/tepez/ng-grid-fontawesome",
   "authors": [
-    "Tom Yam <tomyam1@gmail.com>"
+    "Tom Tepez Yam"
   ],
   "license": "MIT",
   "ignore": [
