@@ -1,0 +1,20 @@
+{
+  "name": "ng-grid-fontawesome",
+  "version": "0.0.0",
+  "homepage": "https://github.com/tepez/ng-grid-fontawesome",
+  "authors": [
+    "Tom Yam <tomyam1@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "awesome-uni.font": "fontello/awesome-uni.font",
+    "angular-ui-grid": "angular-ui/ng-grid#v3.0.0-rc.16"
+  }
+}

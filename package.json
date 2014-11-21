@@ -1,0 +1,26 @@
+{
+  "name": "ng-grid-fontawesome",
+  "version": "1.0.0",
+  "description": "use ui-grid with font-awesome",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tepez/ng-grid-fontawesome.git"
+  },
+  "author": "Tom Tepez Yam",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tepez/ng-grid-fontawesome/issues"
+  },
+  "homepage": "https://github.com/tepez/ng-grid-fontawesome",
+  "devDependencies": {
+    "lodash": "^2.4.1",
+    "yamljs": "^0.2.1"
+  },
+  "dependencies": {
+    "yargs": "^1.3.3"
+  }
+}
