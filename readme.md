@@ -17,3 +17,5 @@ You can either use the pre compiled files in the `dist` dir or generate them on 
     # don't forget to change /path/to to point to where you put font-awesome
     node . --less
  
+ 
+Example plunker http://plnkr.co/edit/TkO3eEQOxJ4dSPbfwSoo?p=preview
