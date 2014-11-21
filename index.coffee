@@ -33,7 +33,7 @@ getFaVar = (content) ->
 result = ''
 
 if argv.less
-  result += "@import \"/path/to/font-awesome/less/variables\";\n"
+  result += "//@import \"/path/to/font-awesome/less/variables\";\n"
 
 result += """
 [class^="ui-grid-icon"]:before, [class*=" ui-grid-icon"]:before {
