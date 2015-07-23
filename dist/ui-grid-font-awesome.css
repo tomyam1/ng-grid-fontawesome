@@ -7,6 +7,9 @@
 .ui-grid-icon-search:before {
   content: "\f002";
 }
+.ui-grid-icon-ok:before {
+  content: "\f00c";
+}
 .ui-grid-icon-cancel:before {
   content: "\f00d";
 }
@@ -27,6 +30,9 @@
 }
 .ui-grid-icon-pencil:before {
   content: "\f040";
+}
+.ui-grid-icon-menu:before {
+  content: "\f0c9";
 }
 .ui-grid-icon-down-dir:before {
   content: "\f0d7";
@@ -49,6 +55,12 @@
 .ui-grid-icon-angle-down:before {
   content: "\f107";
 }
+.ui-grid-icon-indent-left:before {
+  content: "\f03b";
+}
+.ui-grid-icon-indent-right:before {
+  content: "\f03c";
+}
 .ui-grid-icon-filter:before {
   content: "\f0b0";
 }
@@ -57,11 +69,5 @@
 }
 .ui-grid-icon-sort-alt-down:before {
   content: "\f161";
-}
-.ui-grid-icon-ok:before {
-  content: "\f00c";
-}
-.ui-grid-icon-menu:before {
-  content: "\f0c9";
 }
 

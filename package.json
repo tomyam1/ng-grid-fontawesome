@@ -1,6 +1,6 @@
 {
   "name": "ng-grid-fontawesome",
-  "version": "1.0.0",
+  "version": "3.0.1",
   "description": "use ui-grid with font-awesome",
   "main": "index.js",
   "scripts": {
